@@ -3,12 +3,12 @@
 
 <p align="center"
   
-<p align="center"> $${\color{#6d6cb3}
-  VIXEN   10.29 }$$
-<p align="center"> $${\color{#9596cf}
+<p align="center"> $${\color{#aa9dbd}
+  VIXEN  -     10.29 }$$
+<p align="center"> $${\color{#aa9dbd}
  <  my  friends  !  3 }$$
-<p align="center"> $${\color{#a4aef0}
-  any    prns   5teen  ! }$$
+<p align="center"> $${\color{#aa9dbd}
+  any    prns   5teen    isfp }$$
 
 <p align="center">
    <img src="https://media.discordapp.net/attachments/1204182896072466493/1362203034557616269/bannenr2.png?ex=680189ef&is=6800386f&hm=4627a037e9858f3a43d38944211405b0fa262127994621c3181af04c5a0503f4&=&width=1148&height=63&" >
