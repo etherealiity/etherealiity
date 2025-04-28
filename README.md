@@ -2,4 +2,5 @@
 
 
 <p align="center"> sign my ata :3 
-<p align="center"> updating this time to time
+<p align="center"> updating this from time 2 time
+<p align="center"> new rentry + strwpage soon !
