@@ -3,6 +3,4 @@
 
 
 
-<p align="center"> sign my ata :3 
-<p align="center"> updating this from time 2 time
-<p align="center"> new rentry + strwpage soon !
+<p align="center"> 𓊆 " 𝙢𝙮 𝙜𝙤𝙙 ... 𝙢𝙮 𝙪𝙣𝙞𝙫𝙚𝙧𝙨𝙚 ... " 𓊇 
